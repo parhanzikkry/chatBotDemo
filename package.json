@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "start": "nodemon ./pzp_bot.js"
+    },
+    "dependencies": {
+        "dialogflow": "^0.7.0",
+        "moment": "^2.22.2",
+        "mysql2": "^1.6.4",
+        "node-telegram-bot-api": "^0.30.0",
+        "sequelize": "^4.41.2",
+        "uuid": "^3.3.2"
+    }
+}
